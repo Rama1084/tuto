@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="El Trece HD">
+    <display-name lang="es">El Trece HD</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="TELEFE HD">
+    <display-name lang="es">TELEFE HD</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="A24">
+    <display-name lang="es">A24</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <programme start="20230725231500 -0300" stop="20230726001500 -0300" channel="El Trece HD">
+    <title lang="es">Argentina, tierra de amor y venganza</title>
+  </programme>
+  <programme start="20230726001500 -0300" stop="20230726010000 -0300" channel="El Trece HD">
+    <title lang="es">En síntesis</title>
+  </programme>
+  <programme start="20230726010000 -0300" stop="20230726011500 -0300" channel="El Trece HD">
+    <title lang="es">Cucinare</title>
+  </programme>
+  <programme start="20230726011500 -0300" stop="20230726063000 -0300" channel="El Trece HD">
+    <title lang="es">Fin de transmisión</title>
+  </programme>
+  <programme start="20230726063000 -0300" stop="20230726070000 -0300" channel="El Trece HD">
+    <title lang="es">Tiempo del tiempo</title>
+  </programme>
+  <programme start="20230726070000 -0300" stop="20230726090000 -0300" channel="El Trece HD">
+    <title lang="es">Arriba argentinos</title>
+  </programme>
+  <programme start="20230726090000 -0300" stop="20230726103000 -0300" channel="El Trece HD">
+    <title lang="es">Nosotros a la mañana</title>
+  </programme>
+  <programme start="20230726103000 -0300" stop="20230726123000 -0300" channel="El Trece HD">
+    <title lang="es">Socios del espectáculo</title>
+  </programme>
+  <programme start="20230726123000 -0300" stop="20230726130000 -0300" channel="El Trece HD">
+    <title lang="es">El zorro</title>
+  </programme>
+  <programme start="20230726130000 -0300" stop="20230726143000 -0300" channel="El Trece HD">
+    <title lang="es">Mediodía noticias</title>
+  </programme>
+  <programme start="20230726143000 -0300" stop="20230726160000 -0300" channel="El Trece HD">
+    <title lang="es">Pasaplatos</title>
+  </programme>
+  <programme start="20230726160000 -0300" stop="20230726170000 -0300" channel="El Trece HD">
+    <title lang="es">¿De qué signo sos?</title>
+  </programme>
+  <programme start="20230726170000 -0300" stop="20230726173000 -0300" channel="El Trece HD">
+    <title lang="es">Bienvenidos a bordo</title>
+  </programme>
+  <programme start="20230726173000 -0300" stop="20230726183000 -0300" channel="El Trece HD">
+    <title lang="es">Los desconocidos de siempre</title>
+  </programme>
+  <programme start="20230726183000 -0300" stop="20230726200000 -0300" channel="El Trece HD">
+    <title lang="es">Ahora caigo</title>
+  </programme>
+  <programme start="20230726200000 -0300" stop="20230726213000 -0300" channel="El Trece HD">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20230726213000 -0300" stop="20230726231500 -0300" channel="El Trece HD">
+    <title lang="es">Los 8 escalones de los 3 millones</title>
+  </programme>
+  <programme start="20230726231500 -0300" stop="20230727001500 -0300" channel="El Trece HD">
+    <title lang="es">Argentina, tierra de amor y venganza</title>
+  </programme>
+  <programme start="20230725230000 -0300" stop="20230726001500 -0300" channel="TELEFE HD">
+    <title lang="es">Masterchef</title>
+  </programme>
+  <programme start="20230726001500 -0300" stop="20230726003000 -0300" channel="TELEFE HD">
+    <title lang="es">Staff</title>
+  </programme>
+  <programme start="20230726003000 -0300" stop="20230726010000 -0300" channel="TELEFE HD">
+    <title lang="es">Gol de medianoche</title>
+  </programme>
+  <programme start="20230726010000 -0300" stop="20230726013000 -0300" channel="TELEFE HD">
+    <title lang="es">La hora del milagro</title>
+  </programme>
+  <programme start="20230726013000 -0300" stop="20230726023000 -0300" channel="TELEFE HD">
+    <title lang="es">El valor de tus joyas</title>
+  </programme>
+  <programme start="20230726023000 -0300" stop="20230726041500 -0300" channel="TELEFE HD">
+    <title lang="es">Fuera de joda</title>
+  </programme>
+  <programme start="20230726041500 -0300" stop="20230726060000 -0300" channel="TELEFE HD">
+    <title lang="es">Espacios comerciales</title>
+  </programme>
+  <programme start="20230726060000 -0300" stop="20230726064500 -0300" channel="TELEFE HD">
+    <title lang="es">Nick Jr.</title>
+  </programme>
+  <programme start="20230726064500 -0300" stop="20230726070000 -0300" channel="TELEFE HD">
+    <title lang="es">Tiempo y tránsito</title>
+  </programme>
+  <programme start="20230726070000 -0300" stop="20230726093000 -0300" channel="TELEFE HD">
+    <title lang="es">Buen Telefe</title>
+  </programme>
+  <programme start="20230726093000 -0300" stop="20230726111500 -0300" channel="TELEFE HD">
+    <title lang="es">A la Barbarossa</title>
+  </programme>
+  <programme start="20230726111500 -0300" stop="20230726130000 -0300" channel="TELEFE HD">
+    <title lang="es">Ariel en su salsa</title>
+  </programme>
+  <programme start="20230726130000 -0300" stop="20230726143000 -0300" channel="TELEFE HD">
+    <title lang="es">El noticiero de la gente</title>
+  </programme>
+  <programme start="20230726143000 -0300" stop="20230726163000 -0300" channel="TELEFE HD">
+    <title lang="es">Cortá por Lozano</title>
+  </programme>
+  <programme start="20230726163000 -0300" stop="20230726171500 -0300" channel="TELEFE HD">
+    <title lang="es">¿Será que es amor?</title>
+  </programme>
+  <programme start="20230726171500 -0300" stop="20230726184500 -0300" channel="TELEFE HD">
+    <title lang="es">Llamas del destino</title>
+  </programme>
+  <programme start="20230726184500 -0300" stop="20230726200000 -0300" channel="TELEFE HD">
+    <title lang="es">Todo por mi familia</title>
+  </programme>
+  <programme start="20230726200000 -0300" stop="20230726214500 -0300" channel="TELEFE HD">
+    <title lang="es">Telefe noticias</title>
+  </programme>
+  <programme start="20230726214500 -0300" stop="20230726230000 -0300" channel="TELEFE HD">
+    <title lang="es">Pantanal</title>
+  </programme>
+  <programme start="20230726230000 -0300" stop="20230727001500 -0300" channel="TELEFE HD">
+    <title lang="es">Masterchef</title>
+  </programme>
+  <programme start="20230725230000 -0300" stop="20230726001500 -0300" channel="A24">
+    <title lang="es">Basta Baby</title>
+  </programme>
+  <programme start="20230726001500 -0300" stop="20230726004500 -0300" channel="A24">
+    <title lang="es">Poder emprendedor</title>
+  </programme>
+  <programme start="20230726004500 -0300" stop="20230726020000 -0300" channel="A24">
+    <title lang="es">Resumen A24</title>
+  </programme>
+  <programme start="20230726020000 -0300" stop="20230726030000 -0300" channel="A24">
+    <title lang="es">TeveCompras</title>
+  </programme>
+  <programme start="20230726030000 -0300" stop="20230726043000 -0300" channel="A24">
+    <title lang="es">Resumen A24</title>
+  </programme>
+  <programme start="20230726043000 -0300" stop="20230726060000 -0300" channel="A24">
+    <title lang="es">Resumen A24</title>
+  </programme>
+  <programme start="20230726060000 -0300" stop="20230726080000 -0300" channel="A24">
+    <title lang="es">Buenos días, América</title>
+  </programme>
+  <programme start="20230726080000 -0300" stop="20230726093000 -0300" channel="A24">
+    <title lang="es">BDA Extra</title>
+  </programme>
+  <programme start="20230726093000 -0300" stop="20230726120000 -0300" channel="A24">
+    <title lang="es">Andino y las noticias</title>
+  </programme>
+  <programme start="20230726120000 -0300" stop="20230726133000 -0300" channel="A24">
+    <title lang="es">Vivo el día</title>
+  </programme>
+  <programme start="20230726133000 -0300" stop="20230726150000 -0300" channel="A24">
+    <title lang="es">El noticiero A24</title>
+  </programme>
+  <programme start="20230726150000 -0300" stop="20230726163000 -0300" channel="A24">
+    <title lang="es">Qué hay que hacer</title>
+  </programme>
+  <programme start="20230726163000 -0300" stop="20230726180000 -0300" channel="A24">
+    <title lang="es">Quién cuándo dónde QCD</title>
+  </programme>
+  <programme start="20230726180000 -0300" stop="20230726193000 -0300" channel="A24">
+    <title lang="es">Para que sepas</title>
+  </programme>
+  <programme start="20230726193000 -0300" stop="20230726210000 -0300" channel="A24">
+    <title lang="es">MMC</title>
+  </programme>
+  <programme start="20230726210000 -0300" stop="20230726230000 -0300" channel="A24">
+    <title lang="es">La cruel verdad</title>
+  </programme>
+  <programme start="20230726230000 -0300" stop="20230727001500 -0300" channel="A24">
+    <title lang="es">Basta Baby</title>
+  </programme>
+</tv>
