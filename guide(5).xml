@@ -1,0 +1,802 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TV CHILE">
+    <display-name lang="es">TV CHILE</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="El Trece HD">
+    <display-name lang="es">El Trece HD</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="TELEFE HD">
+    <display-name lang="es">TELEFE HD</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="HBO XTREME HD">
+    <display-name lang="es">HBO XTREME HD</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="HBO 2">
+    <display-name lang="es">HBO 2</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="AXN HD">
+    <display-name lang="es">AXN HD</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="TNT Sport Premium">
+    <display-name lang="es">TNT Sport Premium</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="STAR CHANNEL HD">
+    <display-name lang="es">STAR CHANNEL HD</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="A&amp;E HD">
+    <display-name lang="es">A&amp;E HD</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="HBO Signature">
+    <display-name lang="es">HBO Signature</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="HBO family HD">
+    <display-name lang="es">HBO family HD</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="Cinemax">
+    <display-name lang="es">Cinemax</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="SPACE">
+    <display-name lang="es">SPACE</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <programme start="20230726233500 -0300" stop="20230727010000 -0300" channel="TV CHILE">
+    <title lang="es">¿Cuál es tu huella?</title>
+  </programme>
+  <programme start="20230727010000 -0300" stop="20230727020000 -0300" channel="TV CHILE">
+    <title lang="es">Buenas noches a todos</title>
+  </programme>
+  <programme start="20230727020000 -0300" stop="20230727033000 -0300" channel="TV CHILE">
+    <title lang="es">Hoy se habla</title>
+  </programme>
+  <programme start="20230727033000 -0300" stop="20230727050000 -0300" channel="TV CHILE">
+    <title lang="es">Carmen Gloria a tu servicio</title>
+  </programme>
+  <programme start="20230727050000 -0300" stop="20230727060000 -0300" channel="TV CHILE">
+    <title lang="es">Medianoche</title>
+  </programme>
+  <programme start="20230727060000 -0300" stop="20230727073000 -0300" channel="TV CHILE">
+    <title lang="es">Conectados</title>
+  </programme>
+  <programme start="20230727073000 -0300" stop="20230727090000 -0300" channel="TV CHILE">
+    <title lang="es">24 AM</title>
+  </programme>
+  <programme start="20230727090000 -0300" stop="20230727140000 -0300" channel="TV CHILE">
+    <title lang="es">Buenos días a todos</title>
+  </programme>
+  <programme start="20230727140000 -0300" stop="20230727153000 -0300" channel="TV CHILE">
+    <title lang="es">24 horas Tarde</title>
+  </programme>
+  <programme start="20230727153000 -0300" stop="20230727160000 -0300" channel="TV CHILE">
+    <title lang="es">Sucupira</title>
+  </programme>
+  <programme start="20230727160000 -0300" stop="20230727173000 -0300" channel="TV CHILE">
+    <title lang="es">Conectados</title>
+  </programme>
+  <programme start="20230727173000 -0300" stop="20230727190000 -0300" channel="TV CHILE">
+    <title lang="es">Carmen Gloria a tu servicio</title>
+  </programme>
+  <programme start="20230727190000 -0300" stop="20230727193000 -0300" channel="TV CHILE">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20230727193000 -0300" stop="20230727200000 -0300" channel="TV CHILE">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20230727200000 -0300" stop="20230727213000 -0300" channel="TV CHILE">
+    <title lang="es">Hoy se habla</title>
+  </programme>
+  <programme start="20230727213000 -0300" stop="20230727233500 -0300" channel="TV CHILE">
+    <title lang="es">24 horas central</title>
+  </programme>
+  <programme start="20230727233500 -0300" stop="20230728020000 -0300" channel="TV CHILE">
+    <title lang="es">Réquiem de Chile</title>
+  </programme>
+  <programme start="20230726231500 -0300" stop="20230727001500 -0300" channel="El Trece HD">
+    <title lang="es">Argentina, tierra de amor y venganza</title>
+  </programme>
+  <programme start="20230727001500 -0300" stop="20230727010000 -0300" channel="El Trece HD">
+    <title lang="es">En síntesis</title>
+  </programme>
+  <programme start="20230727010000 -0300" stop="20230727011500 -0300" channel="El Trece HD">
+    <title lang="es">Cucinare</title>
+  </programme>
+  <programme start="20230727011500 -0300" stop="20230727063000 -0300" channel="El Trece HD">
+    <title lang="es">Fin de transmisión</title>
+  </programme>
+  <programme start="20230727063000 -0300" stop="20230727070000 -0300" channel="El Trece HD">
+    <title lang="es">Tiempo del tiempo</title>
+  </programme>
+  <programme start="20230727070000 -0300" stop="20230727090000 -0300" channel="El Trece HD">
+    <title lang="es">Arriba argentinos</title>
+  </programme>
+  <programme start="20230727090000 -0300" stop="20230727103000 -0300" channel="El Trece HD">
+    <title lang="es">Nosotros a la mañana</title>
+  </programme>
+  <programme start="20230727103000 -0300" stop="20230727123000 -0300" channel="El Trece HD">
+    <title lang="es">Socios del espectáculo</title>
+  </programme>
+  <programme start="20230727123000 -0300" stop="20230727130000 -0300" channel="El Trece HD">
+    <title lang="es">El zorro</title>
+  </programme>
+  <programme start="20230727130000 -0300" stop="20230727143000 -0300" channel="El Trece HD">
+    <title lang="es">Mediodía noticias</title>
+  </programme>
+  <programme start="20230727143000 -0300" stop="20230727160000 -0300" channel="El Trece HD">
+    <title lang="es">Pasaplatos</title>
+  </programme>
+  <programme start="20230727160000 -0300" stop="20230727170000 -0300" channel="El Trece HD">
+    <title lang="es">¿De qué signo sos?</title>
+  </programme>
+  <programme start="20230727170000 -0300" stop="20230727173000 -0300" channel="El Trece HD">
+    <title lang="es">Bienvenidos a bordo</title>
+  </programme>
+  <programme start="20230727173000 -0300" stop="20230727183000 -0300" channel="El Trece HD">
+    <title lang="es">Los desconocidos de siempre</title>
+  </programme>
+  <programme start="20230727183000 -0300" stop="20230727200000 -0300" channel="El Trece HD">
+    <title lang="es">Ahora caigo</title>
+  </programme>
+  <programme start="20230727200000 -0300" stop="20230727213000 -0300" channel="El Trece HD">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20230727213000 -0300" stop="20230727231500 -0300" channel="El Trece HD">
+    <title lang="es">Los 8 escalones de los 3 millones</title>
+  </programme>
+  <programme start="20230727231500 -0300" stop="20230728001500 -0300" channel="El Trece HD">
+    <title lang="es">Argentina, tierra de amor y venganza</title>
+  </programme>
+  <programme start="20230726230000 -0300" stop="20230727001500 -0300" channel="TELEFE HD">
+    <title lang="es">Masterchef</title>
+  </programme>
+  <programme start="20230727001500 -0300" stop="20230727004500 -0300" channel="TELEFE HD">
+    <title lang="es">Staff</title>
+  </programme>
+  <programme start="20230727004500 -0300" stop="20230727005500 -0300" channel="TELEFE HD">
+    <title lang="es">Staff</title>
+  </programme>
+  <programme start="20230727005500 -0300" stop="20230727010000 -0300" channel="TELEFE HD">
+    <title lang="es">Movilidad</title>
+  </programme>
+  <programme start="20230727010000 -0300" stop="20230727013000 -0300" channel="TELEFE HD">
+    <title lang="es">La hora del milagro</title>
+  </programme>
+  <programme start="20230727013000 -0300" stop="20230727023000 -0300" channel="TELEFE HD">
+    <title lang="es">El valor de tus joyas</title>
+  </programme>
+  <programme start="20230727023000 -0300" stop="20230727041500 -0300" channel="TELEFE HD">
+    <title lang="es">Fuera de joda</title>
+  </programme>
+  <programme start="20230727041500 -0300" stop="20230727060000 -0300" channel="TELEFE HD">
+    <title lang="es">Espacios comerciales</title>
+  </programme>
+  <programme start="20230727060000 -0300" stop="20230727064500 -0300" channel="TELEFE HD">
+    <title lang="es">Nick Jr.</title>
+  </programme>
+  <programme start="20230727064500 -0300" stop="20230727070000 -0300" channel="TELEFE HD">
+    <title lang="es">Tiempo y tránsito</title>
+  </programme>
+  <programme start="20230727070000 -0300" stop="20230727093000 -0300" channel="TELEFE HD">
+    <title lang="es">Buen Telefe</title>
+  </programme>
+  <programme start="20230727093000 -0300" stop="20230727111500 -0300" channel="TELEFE HD">
+    <title lang="es">A la Barbarossa</title>
+  </programme>
+  <programme start="20230727111500 -0300" stop="20230727130000 -0300" channel="TELEFE HD">
+    <title lang="es">Ariel en su salsa</title>
+  </programme>
+  <programme start="20230727130000 -0300" stop="20230727143000 -0300" channel="TELEFE HD">
+    <title lang="es">El noticiero de la gente</title>
+  </programme>
+  <programme start="20230727143000 -0300" stop="20230727163000 -0300" channel="TELEFE HD">
+    <title lang="es">Cortá por Lozano</title>
+  </programme>
+  <programme start="20230727163000 -0300" stop="20230727171500 -0300" channel="TELEFE HD">
+    <title lang="es">¿Será que es amor?</title>
+  </programme>
+  <programme start="20230727171500 -0300" stop="20230727184500 -0300" channel="TELEFE HD">
+    <title lang="es">Llamas del destino</title>
+  </programme>
+  <programme start="20230727184500 -0300" stop="20230727200000 -0300" channel="TELEFE HD">
+    <title lang="es">Todo por mi familia</title>
+  </programme>
+  <programme start="20230727200000 -0300" stop="20230727214500 -0300" channel="TELEFE HD">
+    <title lang="es">Telefe noticias</title>
+  </programme>
+  <programme start="20230727214500 -0300" stop="20230727230000 -0300" channel="TELEFE HD">
+    <title lang="es">Pantanal</title>
+  </programme>
+  <programme start="20230727230000 -0300" stop="20230728001500 -0300" channel="TELEFE HD">
+    <title lang="es">Masterchef</title>
+  </programme>
+  <programme start="20230726220000 -0300" stop="20230727001000 -0300" channel="HBO XTREME HD">
+    <title lang="es">Pequeños detalles</title>
+  </programme>
+  <programme start="20230727001000 -0300" stop="20230727020500 -0300" channel="HBO XTREME HD">
+    <title lang="es">El espía inglés</title>
+  </programme>
+  <programme start="20230727020500 -0300" stop="20230727035500 -0300" channel="HBO XTREME HD">
+    <title lang="es">Perfil</title>
+  </programme>
+  <programme start="20230727035500 -0300" stop="20230727060000 -0300" channel="HBO XTREME HD">
+    <title lang="es">Crisis</title>
+  </programme>
+  <programme start="20230727060000 -0300" stop="20230727074000 -0300" channel="HBO XTREME HD">
+    <title lang="es">Renegados americanos</title>
+  </programme>
+  <programme start="20230727074000 -0300" stop="20230727100000 -0300" channel="HBO XTREME HD">
+    <title lang="es">Robin Hood</title>
+  </programme>
+  <programme start="20230727100000 -0300" stop="20230727122000 -0300" channel="HBO XTREME HD">
+    <title lang="es">El hombre del norte</title>
+  </programme>
+  <programme start="20230727122000 -0300" stop="20230727142900 -0300" channel="HBO XTREME HD">
+    <title lang="es">El rey Arturo: la leyenda de la espada</title>
+  </programme>
+  <programme start="20230727142900 -0300" stop="20230727161800 -0300" channel="HBO XTREME HD">
+    <title lang="es">Kong: La isla calavera</title>
+  </programme>
+  <programme start="20230727161800 -0300" stop="20230727175300 -0300" channel="HBO XTREME HD">
+    <title lang="es">Bestia</title>
+  </programme>
+  <programme start="20230727175300 -0300" stop="20230727201300 -0300" channel="HBO XTREME HD">
+    <title lang="es">El hombre del norte</title>
+  </programme>
+  <programme start="20230727201300 -0300" stop="20230727220000 -0300" channel="HBO XTREME HD">
+    <title lang="es">Carrera mortal</title>
+  </programme>
+  <programme start="20230727220000 -0300" stop="20230727233500 -0300" channel="HBO XTREME HD">
+    <title lang="es">Bestia</title>
+  </programme>
+  <programme start="20230727233500 -0300" stop="20230728003500 -0300" channel="HBO XTREME HD">
+    <title lang="es">HBO Movies</title>
+  </programme>
+  <programme start="20230726220000 -0300" stop="20230727001700 -0300" channel="HBO 2">
+    <title lang="es">Moonfall</title>
+  </programme>
+  <programme start="20230727001700 -0300" stop="20230727015700 -0300" channel="HBO 2">
+    <title lang="es">65: al borde de la extinción</title>
+  </programme>
+  <programme start="20230727015700 -0300" stop="20230727040000 -0300" channel="HBO 2">
+    <title lang="es">Uncharted: fuera del mapa</title>
+  </programme>
+  <programme start="20230727040000 -0300" stop="20230727060000 -0300" channel="HBO 2">
+    <title lang="es">La casa de cera</title>
+  </programme>
+  <programme start="20230727060000 -0300" stop="20230727081700 -0300" channel="HBO 2">
+    <title lang="es">¡Shazam! La furia de los dioses</title>
+  </programme>
+  <programme start="20230727081700 -0300" stop="20230727101400 -0300" channel="HBO 2">
+    <title lang="es">10.000 AC</title>
+  </programme>
+  <programme start="20230727101400 -0300" stop="20230727111900 -0300" channel="HBO 2">
+    <title lang="es">El jardín de bronce</title>
+  </programme>
+  <programme start="20230727111900 -0300" stop="20230727134200 -0300" channel="HBO 2">
+    <title lang="es">La mujer rey</title>
+  </programme>
+  <programme start="20230727134200 -0300" stop="20230727154800 -0300" channel="HBO 2">
+    <title lang="es">Mad Max: Furia en el camino</title>
+  </programme>
+  <programme start="20230727154800 -0300" stop="20230727174800 -0300" channel="HBO 2">
+    <title lang="es">Halloween: La noche final</title>
+  </programme>
+  <programme start="20230727174800 -0300" stop="20230727185300 -0300" channel="HBO 2">
+    <title lang="es">El jardín de bronce</title>
+  </programme>
+  <programme start="20230727185300 -0300" stop="20230727211000 -0300" channel="HBO 2">
+    <title lang="es">¡Shazam! La furia de los dioses</title>
+  </programme>
+  <programme start="20230727211000 -0300" stop="20230727220000 -0300" channel="HBO 2">
+    <title lang="es">Peacemaker</title>
+  </programme>
+  <programme start="20230727220000 -0300" stop="20230727235000 -0300" channel="HBO 2">
+    <title lang="es">Soldado de élite</title>
+  </programme>
+  <programme start="20230727235000 -0300" stop="20230728013500 -0300" channel="HBO 2">
+    <title lang="es">Emily, la criminal</title>
+  </programme>
+  <programme start="20230726235500 -0300" stop="20230727005000 -0300" channel="AXN HD">
+    <title lang="es">CSI</title>
+  </programme>
+  <programme start="20230727005000 -0300" stop="20230727014500 -0300" channel="AXN HD">
+    <title lang="es">CSI</title>
+  </programme>
+  <programme start="20230727014500 -0300" stop="20230727024000 -0300" channel="AXN HD">
+    <title lang="es">NCIS</title>
+  </programme>
+  <programme start="20230727024000 -0300" stop="20230727033000 -0300" channel="AXN HD">
+    <title lang="es">NCIS</title>
+  </programme>
+  <programme start="20230727033000 -0300" stop="20230727042000 -0300" channel="AXN HD">
+    <title lang="es">NCIS</title>
+  </programme>
+  <programme start="20230727042000 -0300" stop="20230727051000 -0300" channel="AXN HD">
+    <title lang="es">NCIS</title>
+  </programme>
+  <programme start="20230727051000 -0300" stop="20230727060000 -0300" channel="AXN HD">
+    <title lang="es">NCIS</title>
+  </programme>
+  <programme start="20230727060000 -0300" stop="20230727070000 -0300" channel="AXN HD">
+    <title lang="es">NCIS</title>
+  </programme>
+  <programme start="20230727070000 -0300" stop="20230727080000 -0300" channel="AXN HD">
+    <title lang="es">NCIS</title>
+  </programme>
+  <programme start="20230727080000 -0300" stop="20230727083000 -0300" channel="AXN HD">
+    <title lang="es">TeveCompras</title>
+  </programme>
+  <programme start="20230727083000 -0300" stop="20230727090000 -0300" channel="AXN HD">
+    <title lang="es">TeveCompras</title>
+  </programme>
+  <programme start="20230727090000 -0300" stop="20230727093000 -0300" channel="AXN HD">
+    <title lang="es">TeveCompras</title>
+  </programme>
+  <programme start="20230727093000 -0300" stop="20230727100000 -0300" channel="AXN HD">
+    <title lang="es">TeveCompras</title>
+  </programme>
+  <programme start="20230727100000 -0300" stop="20230727103000 -0300" channel="AXN HD">
+    <title lang="es">District 31</title>
+  </programme>
+  <programme start="20230727103000 -0300" stop="20230727112000 -0300" channel="AXN HD">
+    <title lang="es">NCIS</title>
+  </programme>
+  <programme start="20230727112000 -0300" stop="20230727121000 -0300" channel="AXN HD">
+    <title lang="es">NCIS</title>
+  </programme>
+  <programme start="20230727121000 -0300" stop="20230727130000 -0300" channel="AXN HD">
+    <title lang="es">NCIS</title>
+  </programme>
+  <programme start="20230727130000 -0300" stop="20230727135000 -0300" channel="AXN HD">
+    <title lang="es">NCIS</title>
+  </programme>
+  <programme start="20230727135000 -0300" stop="20230727144500 -0300" channel="AXN HD">
+    <title lang="es">NCIS</title>
+  </programme>
+  <programme start="20230727144500 -0300" stop="20230727154000 -0300" channel="AXN HD">
+    <title lang="es">NCIS</title>
+  </programme>
+  <programme start="20230727154000 -0300" stop="20230727163500 -0300" channel="AXN HD">
+    <title lang="es">NCIS</title>
+  </programme>
+  <programme start="20230727163500 -0300" stop="20230727173000 -0300" channel="AXN HD">
+    <title lang="es">NCIS</title>
+  </programme>
+  <programme start="20230727173000 -0300" stop="20230727182500 -0300" channel="AXN HD">
+    <title lang="es">NCIS</title>
+  </programme>
+  <programme start="20230727182500 -0300" stop="20230727192000 -0300" channel="AXN HD">
+    <title lang="es">NCIS</title>
+  </programme>
+  <programme start="20230727192000 -0300" stop="20230727201500 -0300" channel="AXN HD">
+    <title lang="es">NCIS</title>
+  </programme>
+  <programme start="20230727201500 -0300" stop="20230727211000 -0300" channel="AXN HD">
+    <title lang="es">NCIS</title>
+  </programme>
+  <programme start="20230727211000 -0300" stop="20230727220500 -0300" channel="AXN HD">
+    <title lang="es">NCIS</title>
+  </programme>
+  <programme start="20230727220500 -0300" stop="20230727230000 -0300" channel="AXN HD">
+    <title lang="es">NCIS</title>
+  </programme>
+  <programme start="20230727230000 -0300" stop="20230727235500 -0300" channel="AXN HD">
+    <title lang="es">NCIS: New Orleans</title>
+  </programme>
+  <programme start="20230727235500 -0300" stop="20230728005000 -0300" channel="AXN HD">
+    <title lang="es">NCIS: Los Ángeles</title>
+  </programme>
+  <programme start="20230726230000 -0300" stop="20230727010000 -0300" channel="TNT Sport Premium">
+    <title lang="es">TNT Sports en CNN Radio</title>
+  </programme>
+  <programme start="20230727010000 -0300" stop="20230727030000 -0300" channel="TNT Sport Premium">
+    <title lang="es">Liga Profesional 2023</title>
+  </programme>
+  <programme start="20230727030000 -0300" stop="20230727050000 -0300" channel="TNT Sport Premium">
+    <title lang="es">TNT Sports en CNN Radio</title>
+  </programme>
+  <programme start="20230727050000 -0300" stop="20230727060000 -0300" channel="TNT Sport Premium">
+    <title lang="es">Goles</title>
+  </programme>
+  <programme start="20230727060000 -0300" stop="20230727063000 -0300" channel="TNT Sport Premium">
+    <title lang="es">¿Te acordás de mí?</title>
+  </programme>
+  <programme start="20230727063000 -0300" stop="20230727070000 -0300" channel="TNT Sport Premium">
+    <title lang="es">Lo mejor de la fecha</title>
+  </programme>
+  <programme start="20230727070000 -0300" stop="20230727090000 -0300" channel="TNT Sport Premium">
+    <title lang="es">TNT Sports en CNN Radio</title>
+  </programme>
+  <programme start="20230727090000 -0300" stop="20230727110000 -0300" channel="TNT Sport Premium">
+    <title lang="es">Liga Profesional 2023</title>
+  </programme>
+  <programme start="20230727110000 -0300" stop="20230727120000 -0300" channel="TNT Sport Premium">
+    <title lang="es">Goles</title>
+  </programme>
+  <programme start="20230727120000 -0300" stop="20230727140000 -0300" channel="TNT Sport Premium">
+    <title lang="es">Pelota parada</title>
+  </programme>
+  <programme start="20230727140000 -0300" stop="20230727150000 -0300" channel="TNT Sport Premium">
+    <title lang="es">TNT Data Sports</title>
+  </programme>
+  <programme start="20230727150000 -0300" stop="20230727153000 -0300" channel="TNT Sport Premium">
+    <title lang="es">Lo mejor de la fecha</title>
+  </programme>
+  <programme start="20230727153000 -0300" stop="20230727163000 -0300" channel="TNT Sport Premium">
+    <title lang="es">TNT Data Sports</title>
+  </programme>
+  <programme start="20230727163000 -0300" stop="20230727170000 -0300" channel="TNT Sport Premium">
+    <title lang="es">Vino para quedarse</title>
+  </programme>
+  <programme start="20230727170000 -0300" stop="20230727190000 -0300" channel="TNT Sport Premium">
+    <title lang="es">TNT Fútbol</title>
+  </programme>
+  <programme start="20230727190000 -0300" stop="20230727193000 -0300" channel="TNT Sport Premium">
+    <title lang="es">TNT Gol fem</title>
+  </programme>
+  <programme start="20230727193000 -0300" stop="20230727200000 -0300" channel="TNT Sport Premium">
+    <title lang="es">Lo mejor de la fecha</title>
+  </programme>
+  <programme start="20230727200000 -0300" stop="20230727220000 -0300" channel="TNT Sport Premium">
+    <title lang="es">TNT Fútbol</title>
+  </programme>
+  <programme start="20230727220000 -0300" stop="20230727223000 -0300" channel="TNT Sport Premium">
+    <title lang="es">TNT Gol fem</title>
+  </programme>
+  <programme start="20230727223000 -0300" stop="20230727230000 -0300" channel="TNT Sport Premium">
+    <title lang="es">Confesiones</title>
+  </programme>
+  <programme start="20230727230000 -0300" stop="20230728010000 -0300" channel="TNT Sport Premium">
+    <title lang="es">TNT Sports en CNN Radio</title>
+  </programme>
+  <programme start="20230726220000 -0300" stop="20230727003000 -0300" channel="STAR CHANNEL HD">
+    <title lang="es">Gladiador</title>
+  </programme>
+  <programme start="20230727003000 -0300" stop="20230727012000 -0300" channel="STAR CHANNEL HD">
+    <title lang="es">9-1-1</title>
+  </programme>
+  <programme start="20230727012000 -0300" stop="20230727032000 -0300" channel="STAR CHANNEL HD">
+    <title lang="es">El rey Arturo</title>
+  </programme>
+  <programme start="20230727032000 -0300" stop="20230727051000 -0300" channel="STAR CHANNEL HD">
+    <title lang="es">Terminator 3: La rebelión de las máquinas</title>
+  </programme>
+  <programme start="20230727051000 -0300" stop="20230727070000 -0300" channel="STAR CHANNEL HD">
+    <title lang="es">La Jugada</title>
+  </programme>
+  <programme start="20230727070000 -0300" stop="20230727073000 -0300" channel="STAR CHANNEL HD">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20230727073000 -0300" stop="20230727080000 -0300" channel="STAR CHANNEL HD">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20230727080000 -0300" stop="20230727083000 -0300" channel="STAR CHANNEL HD">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20230727083000 -0300" stop="20230727090000 -0300" channel="STAR CHANNEL HD">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20230727090000 -0300" stop="20230727100000 -0300" channel="STAR CHANNEL HD">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20230727100000 -0300" stop="20230727120000 -0300" channel="STAR CHANNEL HD">
+    <title lang="es">Karate Kid</title>
+  </programme>
+  <programme start="20230727120000 -0300" stop="20230727130000 -0300" channel="STAR CHANNEL HD">
+    <title lang="es">Los expedientes secretos X</title>
+  </programme>
+  <programme start="20230727130000 -0300" stop="20230727145000 -0300" channel="STAR CHANNEL HD">
+    <title lang="es">Eragon</title>
+  </programme>
+  <programme start="20230727145000 -0300" stop="20230727154000 -0300" channel="STAR CHANNEL HD">
+    <title lang="es">Anatomía según Grey</title>
+  </programme>
+  <programme start="20230727154000 -0300" stop="20230727163000 -0300" channel="STAR CHANNEL HD">
+    <title lang="es">9-1-1</title>
+  </programme>
+  <programme start="20230727163000 -0300" stop="20230727182000 -0300" channel="STAR CHANNEL HD">
+    <title lang="es">Señales del futuro</title>
+  </programme>
+  <programme start="20230727182000 -0300" stop="20230727210000 -0300" channel="STAR CHANNEL HD">
+    <title lang="es">Éxodo</title>
+  </programme>
+  <programme start="20230727210000 -0300" stop="20230727212500 -0300" channel="STAR CHANNEL HD">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20230727212500 -0300" stop="20230727220000 -0300" channel="STAR CHANNEL HD">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20230727220000 -0300" stop="20230728002000 -0300" channel="STAR CHANNEL HD">
+    <title lang="es">Dioses de Egipto</title>
+  </programme>
+  <programme start="20230726225500 -0300" stop="20230727004000 -0300" channel="A&amp;E HD">
+    <title lang="es">Bus 657: el escape del siglo</title>
+  </programme>
+  <programme start="20230727004000 -0300" stop="20230727013500 -0300" channel="A&amp;E HD">
+    <title lang="es">Rosario Tijeras</title>
+  </programme>
+  <programme start="20230727013500 -0300" stop="20230727023000 -0300" channel="A&amp;E HD">
+    <title lang="es">NCIS: Los Ángeles</title>
+  </programme>
+  <programme start="20230727023000 -0300" stop="20230727033000 -0300" channel="A&amp;E HD">
+    <title lang="es">Intervención</title>
+  </programme>
+  <programme start="20230727033000 -0300" stop="20230727043000 -0300" channel="A&amp;E HD">
+    <title lang="es">Intervención</title>
+  </programme>
+  <programme start="20230727043000 -0300" stop="20230727050000 -0300" channel="A&amp;E HD">
+    <title lang="es">Cam Alert</title>
+  </programme>
+  <programme start="20230727050000 -0300" stop="20230727060000 -0300" channel="A&amp;E HD">
+    <title lang="es">Las primeras 48 horas</title>
+  </programme>
+  <programme start="20230727060000 -0300" stop="20230727070000 -0300" channel="A&amp;E HD">
+    <title lang="es">Acumuladores compulsivos</title>
+  </programme>
+  <programme start="20230727070000 -0300" stop="20230727080000 -0300" channel="A&amp;E HD">
+    <title lang="es">Acumuladores compulsivos</title>
+  </programme>
+  <programme start="20230727080000 -0300" stop="20230727090000 -0300" channel="A&amp;E HD">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230727090000 -0300" stop="20230727100000 -0300" channel="A&amp;E HD">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230727100000 -0300" stop="20230727103000 -0300" channel="A&amp;E HD">
+    <title lang="es">Cam Alert</title>
+  </programme>
+  <programme start="20230727103000 -0300" stop="20230727112000 -0300" channel="A&amp;E HD">
+    <title lang="es">Acusado: culpable o inocente</title>
+  </programme>
+  <programme start="20230727112000 -0300" stop="20230727121000 -0300" channel="A&amp;E HD">
+    <title lang="es">NCIS: Los Ángeles</title>
+  </programme>
+  <programme start="20230727121000 -0300" stop="20230727135500 -0300" channel="A&amp;E HD">
+    <title lang="es">Bus 657: el escape del siglo</title>
+  </programme>
+  <programme start="20230727135500 -0300" stop="20230727145000 -0300" channel="A&amp;E HD">
+    <title lang="es">Acumuladores compulsivos</title>
+  </programme>
+  <programme start="20230727145000 -0300" stop="20230727154500 -0300" channel="A&amp;E HD">
+    <title lang="es">Acumuladores compulsivos</title>
+  </programme>
+  <programme start="20230727154500 -0300" stop="20230727161500 -0300" channel="A&amp;E HD">
+    <title lang="es">Cam Alert</title>
+  </programme>
+  <programme start="20230727161500 -0300" stop="20230727164500 -0300" channel="A&amp;E HD">
+    <title lang="es">Cam Alert</title>
+  </programme>
+  <programme start="20230727164500 -0300" stop="20230727171500 -0300" channel="A&amp;E HD">
+    <title lang="es">Cam Alert</title>
+  </programme>
+  <programme start="20230727171500 -0300" stop="20230727191500 -0300" channel="A&amp;E HD">
+    <title lang="es">Asesinos de élite</title>
+  </programme>
+  <programme start="20230727191500 -0300" stop="20230727210000 -0300" channel="A&amp;E HD">
+    <title lang="es">El redentor</title>
+  </programme>
+  <programme start="20230727210000 -0300" stop="20230727213000 -0300" channel="A&amp;E HD">
+    <title lang="es">Cam Alert</title>
+  </programme>
+  <programme start="20230727213000 -0300" stop="20230727220000 -0300" channel="A&amp;E HD">
+    <title lang="es">Cam Alert</title>
+  </programme>
+  <programme start="20230727220000 -0300" stop="20230727225500 -0300" channel="A&amp;E HD">
+    <title lang="es">Rosario Tijeras</title>
+  </programme>
+  <programme start="20230727225500 -0300" stop="20230727235000 -0300" channel="A&amp;E HD">
+    <title lang="es">NCIS: Los Ángeles</title>
+  </programme>
+  <programme start="20230727235000 -0300" stop="20230728004500 -0300" channel="A&amp;E HD">
+    <title lang="es">NCIS: Los Ángeles</title>
+  </programme>
+  <programme start="20230726230500 -0300" stop="20230727001000 -0300" channel="HBO Signature">
+    <title lang="es">La Narcosatánica</title>
+  </programme>
+  <programme start="20230727001000 -0300" stop="20230727010600 -0300" channel="HBO Signature">
+    <title lang="es">Game of Thrones</title>
+  </programme>
+  <programme start="20230727010600 -0300" stop="20230727020200 -0300" channel="HBO Signature">
+    <title lang="es">Game of Thrones</title>
+  </programme>
+  <programme start="20230727020200 -0300" stop="20230727030600 -0300" channel="HBO Signature">
+    <title lang="es">Game of Thrones</title>
+  </programme>
+  <programme start="20230727030600 -0300" stop="20230727041000 -0300" channel="HBO Signature">
+    <title lang="es">Game of Thrones</title>
+  </programme>
+  <programme start="20230727041000 -0300" stop="20230727052400 -0300" channel="HBO Signature">
+    <title lang="es">Game of Thrones</title>
+  </programme>
+  <programme start="20230727052400 -0300" stop="20230727060000 -0300" channel="HBO Signature">
+    <title lang="es">Getting On</title>
+  </programme>
+  <programme start="20230727060000 -0300" stop="20230727070000 -0300" channel="HBO Signature">
+    <title lang="es">Game of Thrones</title>
+  </programme>
+  <programme start="20230727070000 -0300" stop="20230727080000 -0300" channel="HBO Signature">
+    <title lang="es">Game of Thrones</title>
+  </programme>
+  <programme start="20230727080000 -0300" stop="20230727090400 -0300" channel="HBO Signature">
+    <title lang="es">Game of Thrones</title>
+  </programme>
+  <programme start="20230727090400 -0300" stop="20230727095600 -0300" channel="HBO Signature">
+    <title lang="es">Game of Thrones</title>
+  </programme>
+  <programme start="20230727095600 -0300" stop="20230727105600 -0300" channel="HBO Signature">
+    <title lang="es">Game of Thrones</title>
+  </programme>
+  <programme start="20230727105600 -0300" stop="20230727120800 -0300" channel="HBO Signature">
+    <title lang="es">Game of Thrones</title>
+  </programme>
+  <programme start="20230727120800 -0300" stop="20230727133000 -0300" channel="HBO Signature">
+    <title lang="es">Game of Thrones</title>
+  </programme>
+  <programme start="20230727133000 -0300" stop="20230727142800 -0300" channel="HBO Signature">
+    <title lang="es">Nosotros somos el sueño: los niños del Festival de Oratoria MLK</title>
+  </programme>
+  <programme start="20230727142800 -0300" stop="20230727152800 -0300" channel="HBO Signature">
+    <title lang="es">Game of Thrones</title>
+  </programme>
+  <programme start="20230727152800 -0300" stop="20230727162800 -0300" channel="HBO Signature">
+    <title lang="es">Game of Thrones</title>
+  </programme>
+  <programme start="20230727162800 -0300" stop="20230727173200 -0300" channel="HBO Signature">
+    <title lang="es">Game of Thrones</title>
+  </programme>
+  <programme start="20230727173200 -0300" stop="20230727182400 -0300" channel="HBO Signature">
+    <title lang="es">Game of Thrones</title>
+  </programme>
+  <programme start="20230727182400 -0300" stop="20230727192400 -0300" channel="HBO Signature">
+    <title lang="es">Game of Thrones</title>
+  </programme>
+  <programme start="20230727192400 -0300" stop="20230727203800 -0300" channel="HBO Signature">
+    <title lang="es">Game of Thrones</title>
+  </programme>
+  <programme start="20230727203800 -0300" stop="20230727220000 -0300" channel="HBO Signature">
+    <title lang="es">Game of Thrones</title>
+  </programme>
+  <programme start="20230727220000 -0300" stop="20230727230500 -0300" channel="HBO Signature">
+    <title lang="es">Game of Thrones</title>
+  </programme>
+  <programme start="20230727230500 -0300" stop="20230728000800 -0300" channel="HBO Signature">
+    <title lang="es">Game of Thrones</title>
+  </programme>
+  <programme start="20230726220000 -0300" stop="20230727001600 -0300" channel="HBO family HD">
+    <title lang="es">Animales fantásticos y dónde encontrarlos</title>
+  </programme>
+  <programme start="20230727001600 -0300" stop="20230727014700 -0300" channel="HBO family HD">
+    <title lang="es">Nancy Drew y la escalera oculta</title>
+  </programme>
+  <programme start="20230727014700 -0300" stop="20230727033800 -0300" channel="HBO family HD">
+    <title lang="es">Me llaman Radio</title>
+  </programme>
+  <programme start="20230727033800 -0300" stop="20230727060600 -0300" channel="HBO family HD">
+    <title lang="es">Harry Potter y las reliquias de la muerte: Parte 1</title>
+  </programme>
+  <programme start="20230727060600 -0300" stop="20230727073500 -0300" channel="HBO family HD">
+    <title lang="es">Mentiroso, mentiroso</title>
+  </programme>
+  <programme start="20230727073500 -0300" stop="20230727090000 -0300" channel="HBO family HD">
+    <title lang="es">Como perros y gatos: La revancha de Kitty Galore</title>
+  </programme>
+  <programme start="20230727090000 -0300" stop="20230727104400 -0300" channel="HBO family HD">
+    <title lang="es">La gran aventura LEGO</title>
+  </programme>
+  <programme start="20230727104400 -0300" stop="20230727113900 -0300" channel="HBO family HD">
+    <title lang="es">La materia oscura</title>
+  </programme>
+  <programme start="20230727113900 -0300" stop="20230727130800 -0300" channel="HBO family HD">
+    <title lang="es">Madagascar</title>
+  </programme>
+  <programme start="20230727130800 -0300" stop="20230727150400 -0300" channel="HBO family HD">
+    <title lang="es">Más notas perfectas</title>
+  </programme>
+  <programme start="20230727150400 -0300" stop="20230727171700 -0300" channel="HBO family HD">
+    <title lang="es">Harry Potter y las reliquias de la muerte: Parte 2</title>
+  </programme>
+  <programme start="20230727171700 -0300" stop="20230727185400 -0300" channel="HBO family HD">
+    <title lang="es">Mi villano favorito</title>
+  </programme>
+  <programme start="20230727185400 -0300" stop="20230727203100 -0300" channel="HBO family HD">
+    <title lang="es">Kung Fu Panda 3</title>
+  </programme>
+  <programme start="20230727203100 -0300" stop="20230727220000 -0300" channel="HBO family HD">
+    <title lang="es">Madagascar</title>
+  </programme>
+  <programme start="20230727220000 -0300" stop="20230728001600 -0300" channel="HBO family HD">
+    <title lang="es">Animales fantásticos: Los crímenes de Grindelwald</title>
+  </programme>
+  <programme start="20230726220000 -0300" stop="20230727005200 -0300" channel="Cinemax">
+    <title lang="es">El justiciero</title>
+  </programme>
+  <programme start="20230727005200 -0300" stop="20230727030400 -0300" channel="Cinemax">
+    <title lang="es">El inmortal</title>
+  </programme>
+  <programme start="20230727030400 -0300" stop="20230727052100 -0300" channel="Cinemax">
+    <title lang="es">El justiciero</title>
+  </programme>
+  <programme start="20230727052100 -0300" stop="20230727060000 -0300" channel="Cinemax">
+    <title lang="es">La redada</title>
+  </programme>
+  <programme start="20230727060000 -0300" stop="20230727065800 -0300" channel="Cinemax">
+    <title lang="es">Filler</title>
+  </programme>
+  <programme start="20230727065800 -0300" stop="20230727091000 -0300" channel="Cinemax">
+    <title lang="es">Baila conmigo</title>
+  </programme>
+  <programme start="20230727091000 -0300" stop="20230727110800 -0300" channel="Cinemax">
+    <title lang="es">Experta en crisis</title>
+  </programme>
+  <programme start="20230727110800 -0300" stop="20230727130600 -0300" channel="Cinemax">
+    <title lang="es">Amor a segunda vista</title>
+  </programme>
+  <programme start="20230727130600 -0300" stop="20230727152000 -0300" channel="Cinemax">
+    <title lang="es">Miss Simpatía 2: Armada y fabulosa</title>
+  </programme>
+  <programme start="20230727152000 -0300" stop="20230727174200 -0300" channel="Cinemax">
+    <title lang="es">Baila conmigo</title>
+  </programme>
+  <programme start="20230727174200 -0300" stop="20230727195200 -0300" channel="Cinemax">
+    <title lang="es">Experta en crisis</title>
+  </programme>
+  <programme start="20230727195200 -0300" stop="20230727220000 -0300" channel="Cinemax">
+    <title lang="es">Amor a segunda vista</title>
+  </programme>
+  <programme start="20230727220000 -0300" stop="20230728002600 -0300" channel="Cinemax">
+    <title lang="es">Miss Simpatía 2: Armada y fabulosa</title>
+  </programme>
+  <programme start="20230726220000 -0300" stop="20230727002400 -0300" channel="SPACE">
+    <title lang="es">Testigo en peligro</title>
+  </programme>
+  <programme start="20230727002400 -0300" stop="20230727021000 -0300" channel="SPACE">
+    <title lang="es">Persecución salvaje</title>
+  </programme>
+  <programme start="20230727021000 -0300" stop="20230727042100 -0300" channel="SPACE">
+    <title lang="es">El último gran héroe</title>
+  </programme>
+  <programme start="20230727042100 -0300" stop="20230727060000 -0300" channel="SPACE">
+    <title lang="es">Las crónicas del miedo</title>
+  </programme>
+  <programme start="20230727060000 -0300" stop="20230727062600 -0300" channel="SPACE">
+    <title lang="es">Filler</title>
+  </programme>
+  <programme start="20230727062600 -0300" stop="20230727080700 -0300" channel="SPACE">
+    <title lang="es">El ataque de las arañas</title>
+  </programme>
+  <programme start="20230727080700 -0300" stop="20230727100400 -0300" channel="SPACE">
+    <title lang="es">Mini espías 2: La isla de los sueños perdidos</title>
+  </programme>
+  <programme start="20230727100400 -0300" stop="20230727115500 -0300" channel="SPACE">
+    <title lang="es">Agente Salt</title>
+  </programme>
+  <programme start="20230727115500 -0300" stop="20230727135700 -0300" channel="SPACE">
+    <title lang="es">La quinta ola</title>
+  </programme>
+  <programme start="20230727135700 -0300" stop="20230727155400 -0300" channel="SPACE">
+    <title lang="es">Gatúbela</title>
+  </programme>
+  <programme start="20230727155400 -0300" stop="20230727174300 -0300" channel="SPACE">
+    <title lang="es">Agente Salt</title>
+  </programme>
+  <programme start="20230727174300 -0300" stop="20230727195100 -0300" channel="SPACE">
+    <title lang="es">Venganza despiadada</title>
+  </programme>
+  <programme start="20230727195100 -0300" stop="20230727220000 -0300" channel="SPACE">
+    <title lang="es">Miss Bala: sin piedad</title>
+  </programme>
+  <programme start="20230727220000 -0300" stop="20230728000500 -0300" channel="SPACE">
+    <title lang="es">De mala fama</title>
+  </programme>
+</tv>
