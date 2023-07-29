@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TV CHILE">
+    <display-name lang="es">TV CHILE</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="El Trece HD">
+    <display-name lang="es">El Trece HD</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="TELEFE HD">
+    <display-name lang="es">TELEFE HD</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="HBO XTREME HD">
+    <display-name lang="es">HBO XTREME HD</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="HBO 2">
+    <display-name lang="es">HBO 2</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="AXN HD">
+    <display-name lang="es">AXN HD</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="TNT Sport Premium">
+    <display-name lang="es">TNT Sport Premium</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="STAR CHANNEL HD">
+    <display-name lang="es">STAR CHANNEL HD</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="HBO Signature">
+    <display-name lang="es">HBO Signature</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="HBO family HD">
+    <display-name lang="es">HBO family HD</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="Cinemax">
+    <display-name lang="es">Cinemax</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="SPACE">
+    <display-name lang="es">SPACE</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="ESPN HD">
+    <display-name lang="es">ESPN HD</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="ESPN">
+    <display-name lang="es">ESPN</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="ESPN 2">
+    <display-name lang="es">ESPN 2</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="FOX Sports 3">
+    <display-name lang="es">FOX Sports 3</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="FOX Sports">
+    <display-name lang="es">FOX Sports</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="NAT GEO WILD">
+    <display-name lang="es">NAT GEO WILD</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="Discovery Kids HD">
+    <display-name lang="es">Discovery Kids HD</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+</tv>
