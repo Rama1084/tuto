@@ -1,0 +1,122 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="TV CHILE" tvg-name="CANAL CHILEVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Logotipo_de_Mega_%282015-2020%29.svg" group-title="" , TV CHILE 
+https://us-b4-p-e-qg12.cdn.mdstrm.com/live-stream-dai/e947810afb6c4b01bc21575ca6f3d9c2/manifest/f624fec49dadc88894ebeff1d974eab019af7757/533adcc949386ce765657d7c/1a64fed9-fbbe-44a6-97de-2dbf905c7538/3.m3u8?aid=51c2f628b440bd797900051f&pid=JszVs1DtOhjJKQbc60rGkNAzFd5FlTUR&sid=WfQKwgEjCrbPvGkhzgcXdsdjbJRVvjY5&uid=vCiTbXfsFKWviteHghOz3OtW2zBB5zOx&es=cl-a3-p-e-uy6.cdn.mdstrm.com&ote=1690848574358&ot=1azz8Kf7FjNbLkLmXN3Fqg&proto=https&pz=cl
+
+#EXTINF:-1 tvg-id="TV CHILE" tvg-name="CANAL MEGA" tvg-logo="" group-title="" , TV CHILE 
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8?nimblesessionid=314008467
+
+#EXTINF:-1 tvg-id="TELEFE HD" tvg-name="CANAL TELEFE" tvg-logo="" group-title="" , TELEFE HD 
+https://lb.privatevps.org/play/z8EfyDCqLNffP7oZBi8Eo5BIC_4sB36Q33AOu7o7io7snwRShG6D7GOtdT8wU9ZT
+
+#EXTINF:-1 tvg-id="HBO XTREME HD" tvg-name="CANAL HBO XTREME HD" tvg-logo="" group-title="" , HBO XTREME HD 
+https://lb.privatevps.org/play/z8EfyDCqLNffP7oZBi8Eo_22lLiBHApmhr9z8Th3xHxLctO064Uz7tFweEDjRJLr
+
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="CANAL HBO 2" tvg-logo="" group-title="" , HBO 2 
+https://lb.privatevps.org/play/z8EfyDCqLNffP7oZBi8Eo6OLhRjyEKkXskgod_mcyM7M82UjjaFjsgNtPOJ5JU26
+
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="CANAL HBO Signature" tvg-logo="" group-title="" , HBO Signature 
+https://lb.privatevps.org/play/z8EfyDCqLNffP7oZBi8Eo3EQcsFbrqSZCi9gXrHwRpZvIsS9xbTk-KniW4yRjNyb
+
+#EXTINF:-1 tvg-id="HBO family HD" tvg-name="CANAL HBO family HD" tvg-logo="" group-title="" , HBO family HD 
+https://lb.privatevps.org/play/z8EfyDCqLNffP7oZBi8Eo4HngpQpCFCB3PSHrEGsF9AH3awjczv10svMh-_6pJQU
+
+#EXTINF:-1 tvg-id="SPACE" tvg-name="CANAL SPACE" tvg-logo="" group-title="" , SPACE 
+https://lb.privatevps.org/play/z8EfyDCqLNffP7oZBi8EozxER3sTwh_A3sWUyfXbYjDqaoH4zYyONoke3xZcsHyL
+
+#EXTINF:-1 tvg-id="STAR CHANNEL HD" tvg-name="CANAL STAR CHANNEL HD" tvg-logo="" group-title="" , STAR CHANNEL HD 
+https://lb.privatevps.org/play/z8EfyDCqLNffP7oZBi8Eo_0AZ6LSuson4arysoqrYUnYKV3Es6_Vi-8He6MFR9nY
+
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="CANAL AXN HD" tvg-logo="" group-title="" , AXN HD 
+https://lb.privatevps.org/play/z8EfyDCqLNffP7oZBi8Eo9Rh_1G36e8XcXdcOQa3u7iUW3q-s8FOBxQDH8pSI18o
+
+#EXTINF:-1 tvg-id="TNT Sport Premium" tvg-name="CANAL TNT Sport Premium 2" tvg-logo="" group-title="" , TNT Sport Premium 
+https://lb.privatevps.org/play/z8EfyDCqLNffP7oZBi8Eo7LSFljAuNM3HgOw8chtv10eLb6XbYEPq0FCH2ifoSXi
+
+#EXTINF:-1 tvg-id="ESPN HD" tvg-name="CANAL DIRECTV 1" tvg-logo="" group-title="" , ESPN HD 
+https://lb.privatevps.org/play/z8EfyDCqLNffP7oZBi8Eo6Q-PknnzKYRH5ai9-uzQmQ
+
+#EXTINF:-1 tvg-id="ESPN HD" tvg-name="CANAL DIRECTV P" tvg-logo="" group-title="" , ESPN HD 
+https://lb.privatevps.org/play/z8EfyDCqLNffP7oZBi8Eo5jyBYm_TdPsbDe0SgKQOsA
+
+#EXTINF:-1 tvg-id="ESPN HD" tvg-name="CANAL DIRECTV P" tvg-logo="" group-title="" , ESPN HD 
+https://lb.privatevps.org/play/z8EfyDCqLNffP7oZBi8Eo0jqQrz-RVMJO9MtiUc_NiEACNSi1oBrTU-hJRJjl81b
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="CANAL ESPN Sport Premium 2" tvg-logo="" group-title="" , ESPN 
+https://lb.privatevps.org/play/z8EfyDCqLNffP7oZBi8EozvYsWdzl0F5VUxacdp6s_M
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="CANAL ESPN Sport Premium 2" tvg-logo="" group-title="" , ESPN 
+https://lb.privatevps.org/play/z8EfyDCqLNffP7oZBi8EoxPgD9pUwjkR60dGTw_7xgVxb8CzL4n4ggbSdXzNU_zK
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="CANAL ESPN Sport Premium 2" tvg-logo="" group-title="" , ESPN 
+https://lb.privatevps.org/play/z8EfyDCqLNffP7oZBi8Eo3ha7vh5lixSeydS2EYyhD-Da35vjMZatvWGiTUiedRO
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="CANAL ESPN 2" tvg-logo="" group-title="" , ESPN 2 
+https://lb.privatevps.org/play/z8EfyDCqLNffP7oZBi8Eo_E9UVTvJZqyV0gZubMPUdahCHvsaNw-tJh1zgJP5jWE
+
+#EXTINF:-1 tvg-id="FOX Sports 3" tvg-name="CANAL FOX Sports 3" tvg-logo="" group-title="" , FOX Sports 3 
+https://lb.privatevps.org/play/z8EfyDCqLNffP7oZBi8Eo4OML8A_uZ8n8Lh6TmhuGn8
+
+#EXTINF:-1 tvg-id="FOX Sports" tvg-name="CANAL FOX Sports" tvg-logo="" group-title="" , FOX Sports 
+https://lb.privatevps.org/play/z8EfyDCqLNffP7oZBi8Eo_0x6-Cp4OKiowW14l8OzOc
+
+#EXTINF:-1 tvg-id="FOX Sports" tvg-name="CANAL FOX Sports" tvg-logo="" group-title="" , FOX Sports 
+https://lb.privatevps.org/play/z8EfyDCqLNffP7oZBi8Eo4u6Ga9FSqP2_aABH0Pi948
+
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="CANAL NAT GEO " tvg-logo="" group-title="" , NAT GEO WILD
+https://lb.privatevps.org/play/z8EfyDCqLNffP7oZBi8Eo7VGPUczbyY--uGcEXcYjWQ
+
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="CANAL NAT GEO WILD" tvg-logo="" group-title="" , NAT GEO WILD
+https://lb.privatevps.org/play/z8EfyDCqLNffP7oZBi8EoxC33l6CvunhjG6Z_pXam7vLGzDV-Y69QzoT0zT3U-F0
+
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="CANAL NAT GEO " tvg-logo="" group-title="" , NAT GEO WILD
+https://lb.privatevps.org/play/z8EfyDCqLNffP7oZBi8Eo_-OkU0q1e7cHmTJ3yJLwpWq3O76UDI8tohwTiVbg2o3
+
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="CANAL NAT GEO " tvg-logo="" group-title="" , NAT GEO WILD
+https://lb.privatevps.org/play/z8EfyDCqLNffP7oZBi8Eo0R4zEMxFyQ6iYYNRXoFR7f_ILlVmrwwzKiLc5QtV9-1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
